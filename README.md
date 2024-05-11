@@ -3,7 +3,6 @@
 ### 🔭 There is my list of project which I plan to release
  - [release-queue](https://github.com/stars/slawekjaranowski/lists/release-queue)
  - orders and time of release is on my own 😉
- - ☕ 🍺 🍕 from you might encourage me 
 
 <!--
 
